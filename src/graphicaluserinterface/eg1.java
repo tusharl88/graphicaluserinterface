@@ -19,4 +19,4 @@ public class eg1 {
 // we can also use-	frame.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);     // closes our application.
 	}
 	}
-
+//changes are good , it tells that you have worked hard.
